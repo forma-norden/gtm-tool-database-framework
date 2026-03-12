@@ -1,0 +1,9 @@
+﻿Tool Name,Best For,Self-Hostable,Technical Level,Verdict
+n8n,Self-hosted workflow automation,Yes,Code-friendly,Most powerful self-hosted option; full control
+Make,Visual automation workflows,No,Low-code,Best visual interface; powerful and affordable
+Relevance AI,AI-powered workflows,No,Low-code,Best for AI-heavy GTM workflows
+Zapier,Simple no-code automation,No,No-code,Easiest to use; most integrations; pricey at scale
+Bardeen,Browser-based automation,No,No-code,Great for scraping and browser tasks
+http://Tray.io,Complex enterprise workflows,No,Low-code,Powerful for enterprise; steep pricing
+Activepieces,Open-source Zapier alternative,Yes,Code-friendly,Good open-source automation option
+Workato,Enterprise integration platform,No,Low-code,Enterprise-grade; complex and expensive

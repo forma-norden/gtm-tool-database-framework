@@ -1,0 +1,12 @@
+﻿Tool Name,Best For,Geographic Focus,Signal Types,Verdict
+LeadMagic,Visitor identification + enrichment,Global,"Website visitors, enrichment",Combined visitor ID and enrichment
+RB2B,Real-time website visitor ID,US-focused,"Website visitors, real-time Slack alerts",Real-time Slack integration; US-focused only
+Bombora,Intent data at scale,Global,"Content consumption, intent topics",Industry leader for B2B intent; enterprise pricing
+UserGems,Job change tracking,Global,"Champion tracking, job changes",Good for buyer job-change signals
+Pocus,Product-led sales signals,Global,"Product usage, PQL scoring",Best for PLG motion intent signals
+Trigify,Social signals for GTM teams,Global,"LinkedIn engagement, job changes, social activity","Really good for GTM teams, expensive at scale"
+Leadfeeder,Google Analytics integration,Global,Website visitors via GA,Easy GA integration for visitor tracking
+Commonroom,Community & signal aggregation,Global,"Community engagement, social signals",Best for community-led growth signals
+6sense,Account-based intent,Global,"Account-level intent, buying stage",Comprehensive ABM platform with intent; expensive
+Champify,Champion job change alerts,Global,Past customer job changes,Specialized for tracking past buyers
+Albacross,Website visitor identification,Global,"Company identification, visitor tracking",Solid for basic website identification

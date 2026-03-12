@@ -1,0 +1,12 @@
+﻿Tool Name,Best For,Data Sources,Integration Strength,Learning Curve,Verdict
+Freckle.io,CRM enrichment for non-technical users,"40+ providers (includes Apollo, web scraping, AI agents)","Native HubSpot & Salesforce integrations, webhooks, CSV",Easy,"Clay alternative designed for non-technical GTM users. Simple natural language setup, spreadsheet interface, reasonable pricing. Best for teams who find Clay too complex"
+BetterContact,Multi-provider waterfall,15+ providers,Waterfall logic,Medium,Strong waterfall with intelligent provider routing
+Apollo Enrichment,Built-in enrichment with prospecting,Apollo's database,Native to Apollo,Easy,Convenient if already using Apollo for prospecting
+http://Persana.ai,Clay alternative with simpler pricing,50+ sources,Strong integrations,Medium,Less sources than Clay but you won't pay more for features you don't use
+Clay,Market leader for enrichment workflows,75+ data providers,Best-in-class API ecosystem,Steep,Market leader for enrichment; steep learning curve but unmatched power. High cost justified for ROI.
+http://Hunter.io,Domain-based email finding,Email patterns,Simple API,Easy,Simple and effective for email discovery
+LeadMagic,Email waterfall enrichment,Email-focused waterfall,API available,Medium,Solid waterfall for email-first enrichment
+Icypeas,Companion to databases when emails missing,Email finder focus,API available,Easy,Ideal companion to databases when emails missing
+Datagma,Affordable enrichment API,Multiple sources,API-first,Medium,Budget-friendly enrichment with decent coverage
+FullEnrich,Comprehensive waterfall enrichment,15+ providers,Waterfall sequencing,Medium,Robust waterfall with good provider coverage
+Dropcontact,CRM enrichment & deduplication,Email focus,Strong CRM sync,Easy,Great for CRM cleanup and enrichment

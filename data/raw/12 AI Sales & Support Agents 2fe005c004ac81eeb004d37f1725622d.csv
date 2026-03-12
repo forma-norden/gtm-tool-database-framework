@@ -1,0 +1,11 @@
+﻿Tool Name,Agent Type,Best For,Channels,Verdict
+ElevenLabs,Voice AI,AI voice generation & cloning,API for voice integration,"Best-in-class voice AI. Use for voiceovers, voice agents, accessibility"
+Tidio,Support chatbot,SMB live chat & chatbots,"Website, Facebook Messenger, Instagram",Affordable all-in-one for small teams. Limited customization
+Ada,Support automation,Automated customer service at scale,"Web, mobile, social, messaging apps",Handles 70%+ of support tickets autonomously. Enterprise-focused
+Drift,Sales chatbot,Conversational marketing & sales,"Website chat, email",Best for enterprise B2B conversational sales. High price point
+Qualified,Inbound sales agent,AI SDR for inbound pipeline,"Website chat, Salesforce",Piper AI SDR books meetings from website visitors. Only works for inbound
+Intercom,Support & sales chatbot,All-in-one customer messaging platform,"Website chat, email, SMS, WhatsApp","Industry leader for customer support automation. Strong AI, but expensive at scale"
+Voiceflow,Custom agent platform,Building custom AI agents,"Web, WhatsApp, Slack, custom",Build custom AI agents without code. Great for unique use cases
+HubBot,Sales & support chatbot,HubSpot-native chatbot,"Website, HubSpot CRM","Free with HubSpot. Basic features, tight CRM integration"
+ManyChat,Social messaging automation,Instagram & Facebook automation,"Instagram DMs, Facebook Messenger, WhatsApp, SMS",Best for social media automation. Limited for complex sales workflows
+Crisp,Support chatbot,Multi-channel customer support,"Chat, email, Messenger, WhatsApp, Instagram, Twitter",Solid multi-channel support hub. Good balance of features and price
