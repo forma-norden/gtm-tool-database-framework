@@ -9,15 +9,14 @@ decision briefs, and quarterly consolidation workflows.
 
 | File | What it does |
 |------|-------------|
-| `.agents/skills/tool-taxonomy-normalizer.md` | Converts raw vendor lists into a canonical GTM taxonomy. |
-| `.agents/skills/tool-evaluation-scorecard.md` | Scores tools using weighted operational criteria. |
-| `.agents/skills/stack-design-by-stage.md` | Designs stage-appropriate stacks with ownership and rollout sequencing. |
-| `.agents/skills/integration-risk-review.md` | Evaluates migration and interoperability risk before adoption. |
-| `.agents/skills/shortlist-decision-brief.md` | Produces decision memo and pilot plan for final selection. |
-| `.agents/skills/stack-lifecycle-review.md` | Runs quarterly retain/replace/sunset reviews to reduce stack sprawl. |
-| `data/raw/` | Imported category-level source CSVs from the Wave 2 Conigma database. |
-| `data/README.md` | Data coverage, quality notes, and update protocol. |
-| `tests/` | Prompt-based tests and validation checklists for all six skills. |
+| .agents/skills/SKILL.md | Orchestrator and routing logic |
+| .agents/skills/tool-taxonomy-normalizer.md | Converts raw vendor lists into a canonical GTM taxonomy. |
+| .agents/skills/tool-evaluation-scorecard.md | Scores tools using weighted operational criteria. |
+| .agents/skills/stack-design-by-stage.md | Designs stage-appropriate stacks with ownership and rollout sequencing. |
+| .agents/skills/integration-risk-review.md | Evaluates migration and interoperability risk before adoption. |
+| .agents/skills/shortlist-decision-brief.md | Produces decision memo and pilot plan for final selection. |
+| .agents/skills/stack-lifecycle-review.md | Runs quarterly retain/replace/sunset reviews to reduce stack sprawl. |
+| ECOSYSTEM.md | Cross-repo connectivity map |
 
 ## Prerequisites
 
@@ -88,4 +87,5 @@ If this saves you time, star the repo and follow
 [Forma Nôrden on LinkedIn](https://www.linkedin.com/company/formanorden/).
 
 Built by [Forma Nôrden](https://formanorden.com/) - GTM engineering for B2B companies.
+
 
